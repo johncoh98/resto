@@ -13,9 +13,8 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">Itshak Sade 39, Hadera, Israel</p>
+        <p className="p__opensans">Ben Yehuda 45, Tel-Aviv</p>
         <p className="p__opensans">+972 54 369 2295</p>
-        <p className="p__opensans">+972 58 636 8744</p>
       </div>
 
       <div className="app__footer-links_logo">
